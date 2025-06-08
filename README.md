@@ -1,4 +1,4 @@
 # Heuristics & Systems Theory Project 1
-## Year 3 Engineering Systems & Design, SUTD
+### __Year 3 Engineering Systems & Design, SUTD__
 
 **WE LOVE OPTIMISATION!**
