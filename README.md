@@ -1,2 +1,4 @@
-# HST_proj1
-Work repository for Heuristics and Systems Theory Project 1
+# Heuristics & Systems Theory Project 1
+## Year 3 Engineering Systems & Design, SUTD
+
+**WE LOVE OPTIMISATION!**
